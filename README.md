@@ -22,3 +22,8 @@
 
 ## My ER Diagram
 <img![ER_Diagram](https://user-images.githubusercontent.com/65501341/187025416-d281fd2a-5120-4c1b-a80e-04da7fbe481a.jpg)
+
+
+## Project Structer
+![image](https://user-images.githubusercontent.com/65501341/187025562-ba406a4b-707c-43a2-86ae-4c1ad590efe0.png)
+
