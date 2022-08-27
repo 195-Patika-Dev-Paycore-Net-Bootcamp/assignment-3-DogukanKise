@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "id": 1,
+      "container_name": "Berlin",
+      "latitude": 10.4,
+      "longitude": 10.3,
+      "vehicle_id": 1
+    },
+    {
+      "id": 7,
+      "container_name": "Paris",
+      "latitude": 15.5,
+      "longitude": 6.2,
+      "vehicle_id": 1
+    }
+  ],
+  [
+    {
+      "id": 3,
+      "container_name": "Ankara",
+      "latitude": 27.4,
+      "longitude": 11.2,
+      "vehicle_id": 1
+    },
+    {
+      "id": 8,
+      "container_name": "Batman",
+      "latitude": 99.4,
+      "longitude": 49.9,
+      "vehicle_id": 1
+    }
+  ],
+  [
+    {
+      "id": 4,
+      "container_name": "Izmir",
+      "latitude": 44.3,
+      "longitude": 5.12,
+      "vehicle_id": 1
+    },
+    {
+      "id": 9,
+      "container_name": "Yozgat",
+      "latitude": 102.4,
+      "longitude": 49.91,
+      "vehicle_id": 1
+    }
+  ],
+  [
+    {
+      "id": 5,
+      "container_name": "Bitlis",
+      "latitude": 50.4,
+      "longitude": 28.5,
+      "vehicle_id": 1
+    }
+  ],
+  [
+    {
+      "id": 6,
+      "container_name": "London",
+      "latitude": 12.4,
+      "longitude": 16.5,
+      "vehicle_id": 1
+    }
+  ]
+]
