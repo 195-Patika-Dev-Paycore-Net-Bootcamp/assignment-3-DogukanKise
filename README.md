@@ -22,7 +22,7 @@
 
 ## My ER Diagram
 ![ER_Diagram](https://user-images.githubusercontent.com/65501341/187025613-e06077b7-a71a-4aa3-a56e-8db849d50457.jpg)
-
+The Vehicle Id in the Container table and the ID in the Vehicle table are related.
 
 
 ## Project Structer
