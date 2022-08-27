@@ -21,4 +21,4 @@
 
 
 ## My ER Diagram
-<img src="C:\Users\dogu1\Desktop\Screenshots\ER_Diagram" width="350" title="">
+<img![ER_Diagram](https://user-images.githubusercontent.com/65501341/187025416-d281fd2a-5120-4c1b-a80e-04da7fbe481a.jpg)
